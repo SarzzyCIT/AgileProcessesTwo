@@ -1,0 +1,56 @@
+/*
+Brian Sarsfield
+R00030805
+Interactive web development
+*/
+
+.container {
+	width:960px;
+	margin:auto;
+	height:900px;
+	padding:10px;
+	background-color:#797979;
+	border-radius:10px;
+	}
+	
+.maincol {
+	width:920px;
+	height:760px;
+	background-color:ffffff;
+	padding:10px;
+	margin:10px;
+	float:left;
+	border-radius:10px;
+	}
+	
+h1{
+	text-align: center;
+	font-family: Rockwell,"Courier Bold",Courier,Georgia,Times,"Times New Roman",serif;
+}
+
+table{
+   border: 1px solid black;
+   width:430px;
+   padding:10px;
+   margin:10px;
+} 
+
+table.b{
+   border: 1px solid black;
+   width:430px;
+   padding:10px;
+   margin:10px;
+    float:right;
+	position: relative;
+    left: -10px;
+	top: -730px;
+} 
+
+th{
+	font-size:125%;
+	color:#ffffff;
+	background-color:#797979;
+	text-align: left;
+	border: 1px solid black;
+	padding:10px;
+}
